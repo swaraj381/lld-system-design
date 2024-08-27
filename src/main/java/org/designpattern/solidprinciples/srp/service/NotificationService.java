@@ -1,6 +1,6 @@
-package org.designpattern.service;
+package org.designpattern.solidprinciples.srp.service;
 
-import org.designpattern.models.Customer;
+import org.designpattern.solidprinciples.srp.models.Customer;
 
 
 public class NotificationService {

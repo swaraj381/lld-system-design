@@ -1,6 +1,6 @@
-package org.designpattern.service;
+package org.designpattern.solidprinciples.srp.service;
 
-import org.designpattern.models.Order;
+import org.designpattern.solidprinciples.srp.models.Order;
 
 public class PaymentProcessor {
     public void processPayment(Order order){

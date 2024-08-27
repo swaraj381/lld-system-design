@@ -1,4 +1,4 @@
-package org.designpattern.models;
+package org.designpattern.solidprinciples.srp.models;
 
 public class Customer {
     private String name;

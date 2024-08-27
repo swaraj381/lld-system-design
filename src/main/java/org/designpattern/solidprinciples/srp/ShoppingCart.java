@@ -1,9 +1,9 @@
-package org.designpattern;
+package org.designpattern.solidprinciples.srp;
 
-import org.designpattern.models.Customer;
-import org.designpattern.models.Order;
-import org.designpattern.service.NotificationService;
-import org.designpattern.service.PaymentProcessor;
+import org.designpattern.solidprinciples.srp.models.Customer;
+import org.designpattern.solidprinciples.srp.models.Order;
+import org.designpattern.solidprinciples.srp.service.NotificationService;
+import org.designpattern.solidprinciples.srp.service.PaymentProcessor;
 
 import java.util.Arrays;
 
